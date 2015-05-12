@@ -142,7 +142,7 @@ cisco@onepk:~$ sudo apt-get install git
 **Step 2: Clone this repository**
 
 ```
-cisco@onepk:~$ git clone https://github.com/jedelman8/nxos-ansible.git
+cisco@onepk:~$ git clone https://github.com/CiscoDevNet/nxos-ansible.git
 ```
 
 **Step 3: Create Two New Directories**
@@ -961,7 +961,7 @@ Testing was performed on the following platforms:
 
 **Software Dependencies**
 
-The modules depend on two Python libraries: `pycsco` and `xmltodict`.  They can both be installed with `pip`.  More detail on `pycsco` can be found [here](https://github.com/jedelman8/pycsco).
+The modules depend on two Python libraries: `pycsco` and `xmltodict`.  They can both be installed with `pip`.  More detail on `pycsco` can be found [here](https://github.com/CiscoDevNet/pycsco).
 
 # Contributions
 
